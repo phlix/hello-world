@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+I'm just trying out https://guides.github.com/activities/hello-world/.
